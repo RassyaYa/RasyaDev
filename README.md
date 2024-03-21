@@ -2,7 +2,7 @@
 About Rasya Website
 Test In Page
 
-## FEATURE WEB
+## Feature Web
 • Tutorial Website
 
 • MiniGame In Website Test
